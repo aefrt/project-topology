@@ -17,3 +17,7 @@
 [Отчет](https://github.com/aefrt/project-topology/blob/main/Отчет_практика.pdf)
 
 [Вычислительный эксперимент](https://github.com/aefrt/project-topology/blob/main/Untitled.ipynb)
+
+## ВКР
+
+?
