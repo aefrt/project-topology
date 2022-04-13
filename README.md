@@ -10,7 +10,7 @@
 
 [Данные](https://github.com/aefrt/project-topology/blob/main/data.csv)
 
-[Презентация](https://github.com/aefrt/project-topology/blob/main/Презентация.pdf)
+[Презентация](https://github.com/aefrt/project-topology/blob/main/example-beamer-HSE.pdf)
 
 ## Летняя практика
 
